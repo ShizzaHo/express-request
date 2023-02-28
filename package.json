@@ -1,0 +1,16 @@
+{
+  "name": "express-request",
+  "version": "1.0.0",
+  "description": "Заготовка в которой Express автоматически генерирует GET и POST запросы",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index"
+  },
+  "keywords": [],
+  "author": "ShizzaHo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
